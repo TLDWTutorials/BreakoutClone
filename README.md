@@ -1,8 +1,8 @@
-# Arkanoid Clone
+# Breakout Clone
 This is a proof of concept for a Breakout/Arkanoid like clone in MS Access using VBA.  As of November 2024, this is a draft and while it works, there are some bugs that need to be addressed. 
 
 # Description
-This project is a clone of the classic game Arkanoid built using Microsoft Access forms and VBA. It features a paddle, a bouncing ball, and destructible blocks. The player controls the paddle with the keyboard to bounce the ball and destroy all blocks to win the game.
+This project is a clone of the classic game Breakout built using Microsoft Access forms and VBA. It features a paddle, a bouncing ball, and destructible blocks. The player controls the paddle with the keyboard to bounce the ball and destroy all blocks to win the game.
 
 # Features
 - Paddle Movement: Controlled using the left and right arrow keys.
